@@ -23,3 +23,4 @@ print(word.translate(from_lang='en' , to='hi'))
 gs = goslate.Goslate()
 print(gs.translate(text,'hi'))
 print(gs.translate(text,'es'))
+
